@@ -5,3 +5,5 @@ this line will interfere with path a
 so I'm going to add a new line...
 in order to compound the issue lets add yet another line
 I will add a line by parts.
+Again I will add text in multiple commits.
+  This way I will test squashing and pushing those changes to remote.
