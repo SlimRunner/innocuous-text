@@ -9,3 +9,4 @@ Again I will add text in multiple commits.
   This way I will test squashing and pushing those changes to remote.
 
 I'm going to test a PR draft.
+Add one more line
